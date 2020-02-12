@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-template-dnd/static/css/main.ee164652.chunk.css",
+    "main.js": "/react-template-dnd/static/js/main.e74771c4.chunk.js",
+    "main.js.map": "/react-template-dnd/static/js/main.e74771c4.chunk.js.map",
+    "runtime-main.js": "/react-template-dnd/static/js/runtime-main.fb1639af.js",
+    "runtime-main.js.map": "/react-template-dnd/static/js/runtime-main.fb1639af.js.map",
+    "static/js/2.7b486dac.chunk.js": "/react-template-dnd/static/js/2.7b486dac.chunk.js",
+    "static/js/2.7b486dac.chunk.js.map": "/react-template-dnd/static/js/2.7b486dac.chunk.js.map",
+    "index.html": "/react-template-dnd/index.html",
+    "precache-manifest.08163e9c596f415ddfdf473035bf2e5c.js": "/react-template-dnd/precache-manifest.08163e9c596f415ddfdf473035bf2e5c.js",
+    "service-worker.js": "/react-template-dnd/service-worker.js",
+    "static/css/main.ee164652.chunk.css.map": "/react-template-dnd/static/css/main.ee164652.chunk.css.map",
+    "static/js/2.7b486dac.chunk.js.LICENSE.txt": "/react-template-dnd/static/js/2.7b486dac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1639af.js",
+    "static/js/2.7b486dac.chunk.js",
+    "static/css/main.ee164652.chunk.css",
+    "static/js/main.e74771c4.chunk.js"
+  ]
+}
