@@ -1,6 +1,6 @@
 # Drag and drop template editor
 
-Simple proof of concept for a drag-and-drop template editor
+Simple proof of concept for a drag-and-drop template editor [here](http://tohhongxiang123.github.io/react-template-dnd)
 
 - Drag widgets from the side drawer into the edit content section
 - Type to edit text content
