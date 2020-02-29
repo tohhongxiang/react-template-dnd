@@ -1,0 +1,19 @@
+.contentEditorItem {
+    border: 1px solid black;
+    padding: 20px;
+    position: relative;
+    background: #fff;
+}
+
+.dragActions {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+}
+
+.dragHandle {
+    width: 20px;
+    height: 20px;
+    background: black;
+}
