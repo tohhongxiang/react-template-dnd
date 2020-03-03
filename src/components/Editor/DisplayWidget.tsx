@@ -6,7 +6,11 @@ interface DisplayWidgetProps {
 }
 
 export default function DisplayWidget({ widget }: DisplayWidgetProps) {
-    return renderWidget(widget)
+    return (
+        <div style={{marginBottom: '1em'}}>
+            {renderWidget(widget)}
+        </div>
+    )
 }
 
 // TODO remove the usage of dangerouslySetInnerHTML
